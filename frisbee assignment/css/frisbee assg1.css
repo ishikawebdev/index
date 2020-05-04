@@ -1,0 +1,22 @@
+img{
+display:none;
+}
+h1{
+  text-transform:uppercase;
+  text-align:center;
+  color:white;
+}
+header{
+  background: rgba(144,189,238,0.81)
+}
+h2{
+  text-transform:uppercase;
+  color:rgb(5,74,147);
+}
+section{
+  background:#a8fab3;
+}
+a{
+  color:#000000;
+  background:#ffffff;
+}

@@ -1,0 +1,35 @@
+body{
+background-image: url('../imgs/marble.jpg');
+background-size:cover;
+font-family: cursive,georgia, "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+header{
+text-align:center;
+font-family:Times;
+font-style: italic;
+font-size:125%
+}
+h1,h2{
+color: rgb(183, 110, 121);
+}
+h1{
+	font-size: 200%;
+}
+section{
+	/*baground:white;*/
+	display:inline-block;
+	width:20%,45%,35%;
+	padding:2%;
+	float:left;
+}
+footer{
+	clear:both;
+	text-align:center;
+}
+img{
+	width:100px;
+}
+/* details{ */
+	/* width:80%; */
+/* } */
+
